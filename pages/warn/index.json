@@ -1,0 +1,10 @@
+{
+  
+    "navigationBarBackgroundColor": "#b9dd08",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "故障信息反馈",
+    "backgroundColor": "#b9dd08",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  
+}
